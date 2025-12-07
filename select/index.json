@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Episode X",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T16:13:00.194156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Episode X (Arrival)",
+      "artist": "Royal Hunt",
+      "has_synced": false,
+      "path": "select/01_Episode_X_(Arrival)_Royal_Hunt.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/02_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Episode X (Inst.)",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_Episode_X_(Inst.)_Ado.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_Episode_X_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Episode X",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_Episode_X_Ado.txt"
+    }
+  ]
+}
